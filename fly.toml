@@ -1,0 +1,11 @@
+[app]
+name = "tumblr-bot"
+primary_region = "fra"
+
+[build]
+  builder = "BUILTIN"
+  builtin = "python"
+
+[[services]]
+  internal_port = 8080
+  protocol = "tcp"
