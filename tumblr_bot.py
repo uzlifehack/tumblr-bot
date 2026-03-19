@@ -5,9 +5,10 @@ import subprocess
 from pyrogram import Client, filters
 from pyrogram.types import InputMediaPhoto, InputMediaDocument, InputMediaVideo, InlineKeyboardMarkup, InlineKeyboardButton
 
-API_ID = 39474802
-API_HASH = "f505449dd881e1408c033541734c11ae"
-BOT_TOKEN = "8144762466:AAE5dCM2P9tEd9GujMrcQIpsb-gScj5hTY8"
+API_ID = 
+
+API_HASH = 
+BOT_TOKEN = 
 TUMBLR_KEY = "n2cPpTkls4Cr3cXKXFxZn3munIzAgOitGZ8zzVpCdiKoNt0b1A"
 
 TMPDIR = os.path.expanduser("~/downloads/tumblr_tmp")
